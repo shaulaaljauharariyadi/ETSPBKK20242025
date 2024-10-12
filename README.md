@@ -21,3 +21,11 @@ setting views dan model dan membuat halaman untuk single post dan sedikit memper
 <img src="images/halaman home 3.png" alt="Foto Keluarga" width="750"/>
 <img src="images/halaman artikel 3.png" alt="Foto Keluarga" width="750"/>
 <img src="images/halaman single post.png" alt="Foto Keluarga" width="750"/>
+
+## 13/10/2024 setting factory dan eloquent part 1
+pembuatan factory untuk user dan article dan setting eloquent untuk article part 1
+<br>
+<br>
+<img src="images/Screenshot 2024-10-13 013210.png" alt="database article" width="750"/>
+<img src="images/Screenshot 2024-10-13 013219.png" alt="Foto Keluarga" width="750"/>
+

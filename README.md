@@ -13,3 +13,11 @@ membuat blade component sehingga bagian ui dapat dibuat lebih ringkas dan pembah
 <img src="images/halaman home 2.png" alt="Foto Keluarga" width="750"/>
 <img src="images/halaman artikel 2.png" alt="Foto Keluarga" width="750"/>
 <img src="images/halaman about 2.png" alt="Foto Keluarga" width="750"/>
+
+## 12/10/2024 setting views dan model
+setting views dan model dan membuat halaman untuk single post dan sedikit memperbaiki route
+<br>
+<br>
+<img src="images/halaman home 3.png" alt="Foto Keluarga" width="750"/>
+<img src="images/halaman artikel 3.png" alt="Foto Keluarga" width="750"/>
+<img src="images/halaman single post.png" alt="Foto Keluarga" width="750"/>

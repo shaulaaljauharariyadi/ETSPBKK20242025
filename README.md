@@ -23,7 +23,7 @@ setting views dan model dan membuat halaman untuk single post dan sedikit memper
 <img src="images/halaman single post.png" alt="Foto Keluarga" width="750"/>
 
 ## 13/10/2024 setting factory,eloquent,model relation,redesign ui,dan pagination
-pembuatan factory untuk user dan article,kemudian membuat model relation,kemudian melakukan redesign ui untuk bagian single article,dan pagination
+pembuatan factory untuk user dan article,kemudian membuat model relation untuk user dan articles,kemudian melakukan redesign ui untuk bagian single article,dan pagination
 <br>
 <br>
 <img src="images/Screenshot 2024-10-13 013210.png" alt="database article" width="750"/>

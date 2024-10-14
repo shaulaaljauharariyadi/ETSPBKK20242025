@@ -31,3 +31,10 @@ pembuatan factory untuk user dan article,kemudian membuat model relation untuk u
 <img src="images/Screenshot 2024-10-14 014205.png" alt="Foto Keluarga" width="750"/>
 <img src="images/Screenshot 2024-10-14 014211.png" alt="Foto Keluarga" width="750"/>
 
+## 15/10/2024 membuat crud
+membuat page crud untuk bagian user
+<br>
+<br>
+<img src="images/Screenshot 2024-10-14 235918.png" alt="database article" width="750"/>
+<img src="images/Screenshot 2024-10-14 235946.png" alt="Foto Keluarga" width="750"/>
+

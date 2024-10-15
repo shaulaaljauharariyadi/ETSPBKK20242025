@@ -39,4 +39,4 @@ membuat page crud untuk bagian user
 <img src="images/Screenshot 2024-10-14 235946.png" alt="Foto Keluarga" width="750"/>
 <br>
 <br>
-<a href="[https://youtu.be/qrXMAdRS1JI](https://youtu.be/qrXMAdRS1JI?si=3TMhm5XYK-MUFYcO)">Link Youtube</a>
+<a href="https://youtu.be/qrXMAdRS1JI?si=3TMhm5XYK-MUFYcO">Link Youtube</a>
